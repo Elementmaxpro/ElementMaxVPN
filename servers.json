@@ -1,48 +1,8 @@
 [
     {
-        "host": "elementprincipal.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [MIAMI]"
-    },
-    {
-        "host": "elementcarolina.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [North Carolina]"
-    },
-    {
-        "host": "thunderemp.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [LAS NOCHES]"
-    },
-    {
-        "host": "amateratsuelement.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [AMATERATSU]"
-    },
-    {
-        "host": "128.254.207.198",
+        "host": "1.1.1.1",
         "image": "do.png",
-        "name": "HUNTER [1]"
-    },
-    {
-        "host": "hunter2element.duckdns.org",
-        "image": "do.png",
-        "name": "HUNTER [2]"
-    },
-    {
-        "host": "yandyfast.duckdns.org",
-        "image": "do.png",
-        "name": "YANDY"
-    },
-    {
-        "host": "savedry.duckdns.org",
-        "image": "do.png",
-        "name": "SAVEDRY"
-    },
-    {
-        "host": "carolina2element.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [North Carolina 2]"
+        "name": "ACTUALIZAR APLICACION A 2.5"
     },
     {
         "host": "1.1.1.1",
